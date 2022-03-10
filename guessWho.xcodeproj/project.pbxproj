@@ -13,6 +13,7 @@
 		D4563DBF27D8F7A600900539 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4563DBD27D8F7A600900539 /* Main.storyboard */; };
 		D4563DC127D8F7AE00900539 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4563DC027D8F7AE00900539 /* Assets.xcassets */; };
 		D4563DC427D8F7AF00900539 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4563DC227D8F7AF00900539 /* LaunchScreen.storyboard */; };
+		D4563DCC27D8FF3F00900539 /* guessWhoClassOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4563DCB27D8FF3F00900539 /* guessWhoClassOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4563DC027D8F7AE00900539 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4563DC327D8F7AF00900539 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4563DC527D8F7AF00900539 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4563DCB27D8FF3F00900539 /* guessWhoClassOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = guessWhoClassOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D4563DB727D8F7A600900539 /* AppDelegate.swift */,
 				D4563DB927D8F7A600900539 /* SceneDelegate.swift */,
 				D4563DBB27D8F7A600900539 /* ViewController.swift */,
+				D4563DCB27D8FF3F00900539 /* guessWhoClassOne.swift */,
 				D4563DBD27D8F7A600900539 /* Main.storyboard */,
 				D4563DC027D8F7AE00900539 /* Assets.xcassets */,
 				D4563DC227D8F7AF00900539 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D4563DBC27D8F7A600900539 /* ViewController.swift in Sources */,
 				D4563DB827D8F7A600900539 /* AppDelegate.swift in Sources */,
+				D4563DCC27D8FF3F00900539 /* guessWhoClassOne.swift in Sources */,
 				D4563DBA27D8F7A600900539 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
